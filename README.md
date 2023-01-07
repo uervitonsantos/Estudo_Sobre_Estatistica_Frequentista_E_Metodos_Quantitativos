@@ -1,2 +1,2 @@
-# Exercicios_Metodos_Quantitativos
-Exercicios_Metodos_Quantitativos
+# Estudo Sobre Estatistica Frequentista e Metodos Quantitativos
+
